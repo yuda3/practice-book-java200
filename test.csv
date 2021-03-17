@@ -1,0 +1,9 @@
+JNBEmuScraper,1,login1,20,0,02-09-11,aa_admin,idcabinet,BOC,BOC0004,,1,//
+JNBEmuScraper,3,login3,20,0,02-09-11,aa_admin,idcabinet,BOC,BOC0004,,1,//
+JNBEmuScraper,2,login2,20,0,02-09-11,aa_admin,idcabinet,BOC,BOC0004,,1,//
+cp_aeon,2,パスワード,100,1,15-08-14,25136,ocn,BOC,BOC0004,,1,//
+cp_aeon,1,イオンスクエアメンバーID,256,0,15-08-14,25136,ocn,BOC,BOC0004,,1,//
+cp_aeon_for_acs,2,ネットメンバーパスワード,12,1,04-09-09,591,acs,BOC,BOC0004,,1,//
+cp_aeon_for_acs,1,ネットメンバーID,12,0,04-09-09,591,acs,BOC,BOC0004,,1,//
+cp_amazon,2,パスワード,256,1,13-05-24,30947,ocn,BOC,BOC0004,,1,//
+cp_amazon,1,Ｅメールアドレス,256,0,13-05-24,30947,ocn,BOC,BOC0004,,1,//

@@ -1,4 +1,4 @@
-package ridibooks.java200.chapter4;
+package ridibooks.java200.chapter04;
 
 import java.util.Scanner;
 

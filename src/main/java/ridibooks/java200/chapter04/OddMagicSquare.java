@@ -1,4 +1,4 @@
-package ridibooks.java200.chapter4;
+package ridibooks.java200.chapter04;
 
 public class OddMagicSquare {
     private int[][] magic;
